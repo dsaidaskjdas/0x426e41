@@ -4,18 +4,14 @@
   "description": "",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm i"
   },
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
     "chalk": "^5.0.0",
-    "discord-webhook-node": "^1.1.8",
     "express": "^4.18.1",
-    "fast-http-request": "^0.0.6",
-    "https-proxy-agent": "^5.0.1",
     "node-fetch": "^3.2.0",
-    "quick.db": "^9.0.3"
   }
 }
